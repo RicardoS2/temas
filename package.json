@@ -1,0 +1,21 @@
+{
+  "name": "trupe-dos-lel--da-cuca",
+  "displayName": "Trupe dos lelé da cuca",
+  "description": "temas de alguns malucos ai",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rick-themes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rick-themes-color-theme.json"
+      }
+    ]
+  }
+}
