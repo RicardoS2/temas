@@ -1,5 +1,5 @@
 {
-  "name": "Rick-theme",
+  "name": "Rick Blue",
   "type": "dark",
   "colors": {
     "editor.background": "#111111",
@@ -76,69 +76,6 @@
     {
       "scope": ["string", "string.quoted", "string.template", "string.interpolated"],
       "settings": { "foreground": "#93c5fd" }
-    },
-    {
-      "scope": [
-        "constant.numeric",
-        "constant.language",
-        "constant.numeric.float",
-        "constant.numeric.hex"
-      ],
-      "settings": { "foreground": "#2563eb" }
-    },
-    {
-      "scope": [
-        "entity.name.type",
-        "support.type",
-        "storage.type.class",
-        "entity.name.class",
-        "support.class"
-      ],
-      "settings": { "foreground": "#e6e6e6" }
-    },
-    {
-      "scope": ["tag", "entity.name.tag", "markup.heading", "entity.name.section"],
-      "settings": { "foreground": "#3b82f6", "fontStyle": "bold" }
-    },
-    {
-      "scope": [
-        "attribute",
-        "entity.other.attribute-name",
-        "support.type.property-name",
-        "variable.property"
-      ],
-      "settings": { "foreground": "#d8d8d8" }
-    },
-    {
-      "scope": ["punctuation", "meta.brace", "meta.delimiter", "meta.separator"],
-      "settings": { "foreground": "#7a7a7a" }
-    },
-    {
-      "scope": ["markdown.heading", "markup.heading.markdown"],
-      "settings": { "foreground": "#3b82f6", "fontStyle": "bold" }
-    },
-    {
-      "scope": ["markdown.link", "string.other.link", "constant.other.reference.link.markdown"],
-      "settings": { "foreground": "#60a5fa", "fontStyle": "underline" }
-    },
-    {
-      "scope": ["string.regexp", "regex", "constant.character.escape"],
-      "settings": { "foreground": "#2563eb" }
-    },
-    {
-      "scope": ["invalid", "invalid.deprecated", "invalid.illegal"],
-      "settings": { "foreground": "#1e3a8a", "fontStyle": "underline" }
-    },
-    {
-      "scope": [
-        "source.json meta.structure.dictionary.json support.type.property-name.json",
-        "support.type.property-name.json"
-      ],
-      "settings": { "foreground": "#3b82f6" }
-    },
-    {
-      "scope": ["source.css support.type.property-name", "source.scss support.type.property-name"],
-      "settings": { "foreground": "#e6e6e6" }
     }
   ]
 }

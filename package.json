@@ -1,10 +1,11 @@
 {
-  "name": "trupe-dos-lel--da-cuca",
-  "displayName": "Trupe dos lelé da cuca",
-  "description": "temas de alguns malucos ai",
-  "version": "0.0.1",
+  "name": "rick-in-rick",
+  "displayName": "Rick-in-Rick Themes",
+  "description": "Coleção de temas VSCode: Rick Red e Rick Blue",
+  "version": "1.0.0",
+  "publisher": "Rick-in-Rick",
   "engines": {
-    "vscode": "^1.103.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Themes"
@@ -12,10 +13,26 @@
   "contributes": {
     "themes": [
       {
-        "label": "Rick-themes",
+        "label": "Rick Red",
         "uiTheme": "vs-dark",
-        "path": "./themes/Rick-themes-color-theme.json"
+        "path": "./themes/rick-red-color-theme.json"
+      },
+      {
+        "label": "Rick Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rick-blue-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RicardoS2/temas"
+  },
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "rick"
+  ],
+  "license": "MIT"
 }
