@@ -1,9 +1,9 @@
 {
-  "name": "rick-in-rick",
-  "displayName": "Rick-in-Rick Themes",
+  "name": "trupe-dos-malacos",
+  "displayName": "Trupe dos Malacos",
   "description": "Coleção de temas VSCode: Rick Red e Rick Blue",
   "version": "1.0.0",
-  "publisher": "Rick-in-Rick",
+  "publisher": "malacos",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -15,12 +15,12 @@
       {
         "label": "Rick Red",
         "uiTheme": "vs-dark",
-        "path": "./themes/rick-red-color-theme.json"
+        "path": "./themes/Rick.json"
       },
       {
         "label": "Rick Blue",
         "uiTheme": "vs-dark",
-        "path": "./themes/rick-blue-color-theme.json"
+        "path": "./themes/Hella.json"
       }
     ]
   },
