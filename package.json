@@ -1,8 +1,8 @@
 {
   "name": "trupe-dos-malacos",
   "displayName": "Trupe dos Malacos",
-  "description": "Coleção de temas VSCode: Rick Red e Rick Blue",
-  "version": "1.0.0",
+  "description": "Coleção de temas VSCode: Rick Red e Hella",
+  "version": "1.1.0",
   "publisher": "malacos",
   "engines": {
     "vscode": "^1.70.0"
@@ -13,12 +13,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Rick Red",
+        "label": "Rick theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Rick.json"
       },
       {
-        "label": "Rick Blue",
+        "label": "Hella theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Hella.json"
       }
