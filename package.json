@@ -2,7 +2,7 @@
   "name": "trupe-dos-malacos",
   "displayName": "Trupe dos Malacos",
   "description": "Coleção de temas VSCode: Rick Theme e Hella Theme",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "publisher": "malacos",
   "engines": {
     "vscode": "^1.70.0"
