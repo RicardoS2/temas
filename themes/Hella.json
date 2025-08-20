@@ -38,7 +38,11 @@
   },
   "tokenColors": [
     {
-      "scope": ["comment", "punctuation.definition.comment", "comment.block.documentation"],
+      "scope": [
+        "comment",
+        "punctuation.definition.comment",
+        "comment.block.documentation"
+      ],
       "settings": { "foreground": "#7a7a7a", "fontStyle": "italic" }
     },
     {
@@ -61,19 +65,37 @@
       "settings": { "foreground": "#ff8844" }
     },
     {
-      "scope": ["entity.name.method", "support.function.method", "variable.function.constructor"],
+      "scope": [
+        "entity.name.method",
+        "support.function.method",
+        "variable.function.constructor"
+      ],
       "settings": { "foreground": "#ff8844" }
     },
     {
-      "scope": ["variable", "variable.other", "support.variable", "entity.name.variable"],
+      "scope": [
+        "variable",
+        "variable.other",
+        "support.variable",
+        "entity.name.variable"
+      ],
       "settings": { "foreground": "#e0e0e0" }
     },
     {
-      "scope": ["variable.parameter", "variable.parameter.function", "variable.other.readwrite"],
+      "scope": [
+        "variable.parameter",
+        "variable.parameter.function",
+        "variable.other.readwrite"
+      ],
       "settings": { "foreground": "#cfcfcf" }
     },
     {
-      "scope": ["string", "string.quoted", "string.template", "string.interpolated"],
+      "scope": [
+        "string",
+        "string.quoted",
+        "string.template",
+        "string.interpolated"
+      ],
       "settings": { "foreground": "#ff9966" }
     },
     {
@@ -96,7 +118,12 @@
       "settings": { "foreground": "#e0e0e0" }
     },
     {
-      "scope": ["tag", "entity.name.tag", "markup.heading", "entity.name.section"],
+      "scope": [
+        "tag",
+        "entity.name.tag",
+        "markup.heading",
+        "entity.name.section"
+      ],
       "settings": { "foreground": "#ff4444", "fontStyle": "bold" }
     },
     {
@@ -108,7 +135,10 @@
       "settings": { "foreground": "#ffd700" }
     },
     {
-      "scope": ["support.constant.property-value.css", "support.type.property-name.css"],
+      "scope": [
+        "support.constant.property-value.css",
+        "support.type.property-name.css"
+      ],
       "settings": { "foreground": "#7fffd4" }
     },
     {
