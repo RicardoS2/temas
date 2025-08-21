@@ -1,8 +1,8 @@
 {
   "name": "trupe-dos-malacos",
   "displayName": "Trupe dos Malacos",
-  "description": "Coleção de temas VSCode: Rick Theme e Hella Theme",
-  "version": "1.5.0",
+  "description": "Coleção sofisticada de temas VSCode: Rick Theme e Hella Theme - design moderno e elegante para melhor experiência em UI/UX.",
+  "version": "1.6.0",
   "publisher": "malacos",
   "engines": {
     "vscode": "^1.70.0"
@@ -10,6 +10,11 @@
   "categories": [
     "Themes"
   ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#111111",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
@@ -28,13 +33,21 @@
     "type": "git",
     "url": "https://github.com/RicardoS2/temas"
   },
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=malacos.trupe-dos-malacos",
+  "bugs": {
+    "url": "https://github.com/RicardoS2/temas/issues"
+  },
   "keywords": [
     "vscode",
     "theme",
     "dark",
     "rick",
     "hella",
-    "malacos"
+    "malacos",
+    "developer",
+    "ui",
+    "ux",
+    "minimal"
   ],
   "license": "MIT"
 }
